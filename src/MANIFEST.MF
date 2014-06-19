@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: jp.sji.sumatium.tool.ApkRePermission
+Class-Path: lib/android/sdklib.jar lib/axml/axml.jar
